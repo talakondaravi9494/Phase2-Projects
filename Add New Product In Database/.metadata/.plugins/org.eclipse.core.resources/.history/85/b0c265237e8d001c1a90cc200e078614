@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Session Tracking Using HTTP Session">
+        <property name="context-root" value="Session_Tracking_Using_HTTP_Session"/>
+        <property name="java-output-path" value="/Session Tracking Using HTTP Session/build/classes"/>
+    </wb-module>
+</project-modules>

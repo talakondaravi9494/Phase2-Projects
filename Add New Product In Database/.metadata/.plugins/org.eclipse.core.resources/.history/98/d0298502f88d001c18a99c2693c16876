@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Hibernate Configuration Using XML in Eclipse">
+        <property name="context-root" value="Hibernate_Configuration_Using_XML_in_Eclipse"/>
+        <property name="java-output-path" value="/Hibernate Configuration Using XML in Eclipse/build/classes"/>
+    </wb-module>
+</project-modules>

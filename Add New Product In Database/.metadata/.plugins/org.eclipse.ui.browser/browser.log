@@ -1,0 +1,7 @@
+
+Feb 10, 2022 13:07:48.517 NEW SESSION
+Feb 10, 2022 13:07:48.517 [5712:3364:0210/130748.514:ERROR:assistance_home_client.cc(23)] File path C:\Users\jhanu\AppData\Local\Microsoft\Edge\User Data\Default
+Feb 10, 2022 13:07:53.940 [5712:3364:0210/130753.939:ERROR:device_event_log_impl.cc(214)] [13:07:53.940] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 10, 2022 13:07:53.941 [5712:3364:0210/130753.939:ERROR:device_event_log_impl.cc(214)] [13:07:53.940] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 10, 2022 13:07:54.956 [5712:7600:0210/130754.955:ERROR:chrome_browser_main_extra_parts_metrics.cc(251)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 10, 2022 13:07:54.958 [5712:7600:0210/130754.957:ERROR:chrome_browser_main_extra_parts_metrics.cc(255)] END: GetDefaultBrowser()

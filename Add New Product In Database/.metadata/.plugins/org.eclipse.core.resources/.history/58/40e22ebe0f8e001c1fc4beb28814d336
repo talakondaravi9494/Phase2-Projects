@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Collection Mapping in Hibernate">
+        <property name="context-root" value="Collection_Mapping_in_Hibernate"/>
+        <property name="java-output-path" value="/Collection Mapping in Hibernate/build/classes"/>
+    </wb-module>
+</project-modules>

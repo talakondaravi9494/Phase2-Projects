@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Session Tracking Using Hidden Form Fields">
+        <property name="context-root" value="Session_Tracking_Using_Hidden_Form_Fields"/>
+        <property name="java-output-path" value="/Session Tracking Using Hidden Form Fields/build/classes"/>
+    </wb-module>
+</project-modules>

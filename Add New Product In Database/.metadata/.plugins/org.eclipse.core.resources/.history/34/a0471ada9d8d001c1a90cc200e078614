@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="JDBCConnectionsStatementsandResultSets">
+        <property name="context-root" value="JDBCConnectionsStatementsandResultSets"/>
+        <property name="java-output-path" value="/JDBCConnectionsStatementsandResultSets/build/classes"/>
+    </wb-module>
+</project-modules>
